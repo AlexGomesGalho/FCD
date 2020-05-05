@@ -1,2 +1,0 @@
-# FCD
-Formação Data Science
